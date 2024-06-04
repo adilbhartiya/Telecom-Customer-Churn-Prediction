@@ -71,7 +71,7 @@ git clone https://github.com/adilbhartiya/Telecom-Customer-Churn-Prediction.git
 ```
 2. Install the required dependencies using
 ``` bash
-pip install -r requirements.txt`
+pip install -r requirements.txt
 ```
 3. Open and run the `customer_churn_prediction.ipynb` notebook in Jupyter Notebook.
 4. Follow the instructions in the notebook to explore the dataset, preprocess the data, build machine learning models, evaluate model performance, and save/load the model.
